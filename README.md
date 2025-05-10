@@ -8,6 +8,9 @@ Nguyễn Văn Thắng
 
 Quản lý nhà trọ
 
+## ReadMe Giới thiệu Project
+[Link](https://nglthu.github.io/Group10_OOP_N02_term3_2025/)
+
 ## Đối tượng
 class Room {
 RoomID;
